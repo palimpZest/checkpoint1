@@ -1,1 +1,40 @@
-/* Common styles */
+/* styles */
+
+body {
+    background-image: url("../img/hypnotize.png");
+}
+
+nav {
+    height: 70px;
+}
+
+nav a {
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+nav ul {
+    margin-top: 10px;
+}
+
+nav a {
+    padding-right: 15px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.photo {
+    margin-bottom: 20px;
+}
+
+footer {
+    margin-top: 20px;
+    padding-bottom: 20px;
+    background-color: #000000;
+}
+
+footer img {
+    width: 64px;
+}
